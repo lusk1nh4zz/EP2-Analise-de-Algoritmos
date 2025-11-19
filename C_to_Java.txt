@@ -1,1 +1,3 @@
-Como estou direcionando meus estudos para a linguagem Java, resolvi escrever esse código nessa linguagem para treinar, apesar de no enunciado estar escrito em C.
+Como estou direcionando meus estudos para a linguagem Java, 
+resolvi escrever esse código nessa linguagem para treinar,
+apesar de no enunciado estar escrito em C.
